@@ -18,12 +18,6 @@
 
 ## 关于 / About
 
-写完整链路的人：**固件 → 网页仪表盘 → 原生 App**。
-
-2019 年注册账号，从 Vue 后台管理页面写起；2022 年一个 3D 心跳页面意外被 fork 了 180 多次；
-现在主要在折腾 **P4-CAN** 这条线 —— 跑在 ESP32-P4 上的三路 CAN 工具固件、板子自带的网页仪表盘，
-以及装进 iPhone / Mac 的原生控制台。
-
 习惯把「能不能用」放在「写得优雅」前面：能一条命令还原的改动，就不做不可逆的魔改；
 能回读校验的写入，就不假设它成功了。
 
@@ -46,7 +40,6 @@
 | **[P4 管家](https://github.com/Kaiser-DMr/p4can-companion)**<br><sub>`p4can-companion`<br>SwiftUI · ESP32-P4<br>iOS 17+ / macOS 14+</sub> | 原生 iOS / iPadOS / macOS 控制台。所有状态直接来自设备 HTTP API，不是网页套壳；写入后回读校验。ad-hoc IPA 需自行签名。 |
 | **[P4-CAN 汉化壳](https://github.com/Kaiser-DMr/p4can-zh-ios)**<br><sub>`p4can-zh-ios`<br>JavaScript · WKWebView<br>🛑 已停止更新 → P4 管家</sub> | 给 P4-CAN 网页仪表盘做的注入式汉化 + 原生 iOS 外壳。**项目已存档**，后续合并进 P4 管家；旧版 Release 与汉化脚本仍可下载。 |
 | **[3D 心跳](https://github.com/Kaiser-DMr/-3D)**<br><sub>`-3D`<br>JavaScript · CSS 3D</sub> | 纯前端的 3D 爱心跳动页面，2022 年的意外小爆款（200+ ★ / 180+ fork），至今仍有人拿去做表白页。 |
-| **[广告后台](https://github.com/Kaiser-DMr/ads--admin-code)**<br><sub>`ads--admin-code`<br>JavaScript · Vue</sub> | 广告投放后台的全代码实现，早期前端工程化的练习沉淀。 |
 
 <br>
 
