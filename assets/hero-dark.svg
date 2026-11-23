@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-label="Kaiser-DMr - Embedded systems, iOS apps, web tooling">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0C10"/>
+      <stop offset="0.55" stop-color="#0D1015"/>
+      <stop offset="1" stop-color="#180C0E"/>
+    </linearGradient>
+    <linearGradient id="nm" x1="64" y1="150" x2="400" y2="176" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFA3A3"/>
+    </linearGradient>
+    <radialGradient id="rg" cx="0.5" cy="0.5" r="0.5">
+      <stop stop-color="#FF3B3B" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FF3B3B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cg" cx="0.5" cy="0.5" r="0.5">
+      <stop stop-color="#3BE0FF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#3BE0FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <ellipse cx="1040" cy="190" rx="340" ry="240" fill="url(#rg)"/>
+    <ellipse cx="110" cy="10" rx="300" ry="190" fill="url(#cg)"/>
+
+    <path d="M26 62V34a8 8 0 0 1 8-8h28" stroke="#FF4D4D" stroke-opacity="0.65" stroke-width="2"/>
+    <path d="M1174 62V34a8 8 0 0 0-8-8h-28" stroke="#FF4D4D" stroke-opacity="0.65" stroke-width="2"/>
+    <path d="M26 258v28a8 8 0 0 0 8 8h28" stroke="#FF4D4D" stroke-opacity="0.65" stroke-width="2"/>
+    <path d="M1174 258v28a8 8 0 0 1-8 8h-28" stroke="#FF4D4D" stroke-opacity="0.65" stroke-width="2"/>
+
+    <text x="64" y="94" font-family="'SF Mono', ui-monospace, Menlo, Consolas, 'Courier New', monospace" font-size="14" letter-spacing="6" fill="#FF6B6B">// KAISER-DMR</text>
+    <text x="60" y="178" font-family="'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-2" fill="url(#nm)">rainbow</text>
+    <text x="64" y="215" font-family="'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#9AA4B1">Embedded systems · iOS apps · Web tooling</text>
+
+    <g font-family="'SF Mono', ui-monospace, Menlo, Consolas, 'Courier New', monospace" font-size="14" fill="#C9D1D9">
+      <rect x="64" y="240" width="112" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="120" y="259" text-anchor="middle">ESP32-P4</text>
+      <rect x="188" y="240" width="128" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="252" y="259" text-anchor="middle">CAN / TWAI</text>
+      <rect x="328" y="240" width="100" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="378" y="259" text-anchor="middle">SwiftUI</text>
+      <rect x="440" y="240" width="96" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="488" y="259" text-anchor="middle">Next.js</text>
+      <rect x="548" y="240" width="118" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="607" y="259" text-anchor="middle">TypeScript</text>
+    </g>
+
+    <path d="M860 70v180" stroke="#FFFFFF" stroke-opacity="0.07"/>
+
+    <g>
+      <circle cx="1000" cy="160" r="96" stroke="#FF4D4D" stroke-opacity="0.20" stroke-width="2" stroke-dasharray="2 10"/>
+      <circle cx="1000" cy="160" r="76" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <path d="M1000 64A96 96 0 0 1 1069 91" stroke="#FF4D4D" stroke-opacity="0.85" stroke-width="2" stroke-linecap="round"/>
+      <path d="M1000 256A96 96 0 0 1 931 229" stroke="#FF4D4D" stroke-opacity="0.35" stroke-width="2" stroke-linecap="round"/>
+      <polygon points="1050,160 1025,203 975,203 950,160 975,117 1025,117" fill="#10141A" stroke="#FF4D4D" stroke-opacity="0.45"/>
+      <text x="1000" y="172" text-anchor="middle" font-family="'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#FFFFFF" letter-spacing="1">KD</text>
+      <text x="1000" y="288" text-anchor="middle" font-family="'SF Mono', ui-monospace, Menlo, Consolas, 'Courier New', monospace" font-size="11" letter-spacing="4" fill="#6E7783">EST. 2019</text>
+    </g>
+
+    <rect x="0.5" y="0.5" width="1199" height="319" rx="18" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  </g>
+</svg>
