@@ -44,7 +44,7 @@
 | 项目 | 说明 |
 | :-- | :-- |
 | **[P4 管家](https://github.com/Kaiser-DMr/p4can-companion)**<br><sub>`p4can-companion`<br>SwiftUI · ESP32-P4<br>iOS 17+ / macOS 14+</sub> | 原生 iOS / iPadOS / macOS 控制台。所有状态直接来自设备 HTTP API，不是网页套壳；写入后回读校验。ad-hoc IPA 需自行签名。 |
-| **[P4-CAN 汉化壳](https://github.com/Kaiser-DMr/p4can-zh-ios)**<br><sub>`p4can-zh-ios`<br>JavaScript · WKWebView<br>Sideload</sub> | 给 P4-CAN 网页仪表盘做的注入式汉化 + 原生 iOS 外壳。不改固件逻辑，一条命令即可还原英文；未连设备时可进「界面预览」。 |
+| **[P4-CAN 汉化壳](https://github.com/Kaiser-DMr/p4can-zh-ios)**<br><sub>`p4can-zh-ios`<br>JavaScript · WKWebView<br>🛑 已停止更新 → P4 管家</sub> | 给 P4-CAN 网页仪表盘做的注入式汉化 + 原生 iOS 外壳。**项目已存档**，后续合并进 P4 管家；旧版 Release 与汉化脚本仍可下载。 |
 | **[3D 心跳](https://github.com/Kaiser-DMr/-3D)**<br><sub>`-3D`<br>JavaScript · CSS 3D</sub> | 纯前端的 3D 爱心跳动页面，2022 年的意外小爆款（200+ ★ / 180+ fork），至今仍有人拿去做表白页。 |
 | **[广告后台](https://github.com/Kaiser-DMr/ads--admin-code)**<br><sub>`ads--admin-code`<br>JavaScript · Vue</sub> | 广告投放后台的全代码实现，早期前端工程化的练习沉淀。 |
 
