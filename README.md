@@ -52,33 +52,12 @@
 
 ## 技术栈 / Stack
 
-<div align="center">
-
-`嵌入式`&nbsp;
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![CAN](https://img.shields.io/badge/TWAI%20%2F%20CAN-0B0D10?style=flat-square)
-
-`Apple`&nbsp;
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-1C8AC9?style=flat-square&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
-
-`Web`&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-`工具`&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
+| 层 | 常用 |
+| :-- | :-- |
+| **嵌入式** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white) ![TWAI](https://img.shields.io/badge/TWAI%20%2F%20CAN-0B0D10?style=flat-square) |
+| **Apple** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1C8AC9?style=flat-square&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white) |
+| **Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **工具** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 <br>
 
@@ -87,11 +66,11 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kaiser-DMr&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B0D10&title_color=FF6B6B&icon_color=FF4D4D&text_color=C9D1D9&card_width=420">
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kaiser-DMr&show_icons=true&hide_border=true&rank_icon=github&bg_color=FFFFFF&title_color=C4352C&icon_color=D93A32&text_color=33404E&card_width=420">
+    <img height="190" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kaiser-DMr&show_icons=true&hide_border=true&rank_icon=github&bg_color=FFFFFF&title_color=C4352C&icon_color=D93A32&text_color=33404E&card_width=420">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiser-DMr&layout=compact&langs_count=8&hide_border=true&bg_color=0B0D10&title_color=FF6B6B&text_color=C9D1D9&card_width=380">
-    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiser-DMr&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=C4352C&text_color=33404E&card_width=380">
+    <img height="190" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiser-DMr&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=C4352C&text_color=33404E&card_width=380">
   </picture>
 </div>
 
